@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[2390],{2390:(e,a,s)=>{e.exports=s.p+"static/media/ColoredPending.f2f4de6a7879bb4a04c6.svg"}}]);

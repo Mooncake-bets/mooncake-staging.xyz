@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[6992],{6992:(e,s,a)=>{e.exports=a.p+"static/media/Sushiswap.cee1916c1f20827efa11.svg"}}]);

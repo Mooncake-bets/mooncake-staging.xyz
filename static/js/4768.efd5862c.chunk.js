@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4768],{4768:(e,s,a)=>{e.exports=a.p+"static/media/MAHAStarterlg.7f65879328fcfd466646.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[3878],{3878:(e,c,s)=>{e.exports=s.p+"static/media/Polydex.35f36f8c03b5e46738c7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5984],{5984:(e,a,c)=>{e.exports=c.p+"static/media/CreameFinance.feb9ff93cf69d49a8e31.svg"}}]);

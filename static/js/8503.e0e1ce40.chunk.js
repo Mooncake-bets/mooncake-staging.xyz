@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[8503],{8503:(e,a,c)=>{e.exports=c.p+"static/media/CosmicFinance.94a05c1984a951e38a28.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4576],{4576:(e,s,a)=>{e.exports=a.p+"static/media/Uniswap.b679798ad94fb3ec505e.svg"}}]);

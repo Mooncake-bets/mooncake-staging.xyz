@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[8096],{8096:(e,s,c)=>{e.exports=c.p+"static/media/Tick.7f4093fd0009f2b6041b.svg"}}]);

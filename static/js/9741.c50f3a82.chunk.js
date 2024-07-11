@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[9741],{9741:(e,s,o)=>{e.exports=o.p+"static/media/ColoredAlert.106911db1f3de0bff7b9.svg"}}]);

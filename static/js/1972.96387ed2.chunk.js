@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[1972],{1972:(e,b,s)=>{e.exports=s.p+"static/media/Firebird.2a64bf025bbb224feb35.svg"}}]);

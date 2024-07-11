@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5739],{5739:(e,c,a)=>{e.exports=a.p+"static/media/PickleFinance.56d317ceda3ffce3c2f3.svg"}}]);

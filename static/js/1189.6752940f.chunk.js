@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[1189],{1189:(a,e,s)=>{a.exports=s.p+"static/media/Transaction.07ddcdf631ff50adf889.svg"}}]);

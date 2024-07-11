@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4986],{4986:(e,s,a)=>{e.exports=a.p+"static/media/Delete.a66f3b6db082767e8c71.svg"}}]);

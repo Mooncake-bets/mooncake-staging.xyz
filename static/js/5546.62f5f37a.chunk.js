@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5546],{5546:(e,s,a)=>{e.exports=a.p+"static/media/Menu.1d098f18761a2df3d0bd.svg"}}]);

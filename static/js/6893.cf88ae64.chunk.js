@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[6893],{6893:(e,s,a)=>{e.exports=a.p+"static/media/ArrowRight.66cefdba6bd86f0f04f0.svg"}}]);

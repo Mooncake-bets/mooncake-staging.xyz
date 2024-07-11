@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[7262],{7262:(e,s,a)=>{e.exports=a.p+"static/media/Instagram.1db611ce14e26c55f5d9.svg"}}]);

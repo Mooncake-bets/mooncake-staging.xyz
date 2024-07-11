@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[7081],{7081:(e,c,s)=>{e.exports=s.p+"static/media/Forum.1843643d65c51633dc22.svg"}}]);

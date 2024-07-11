@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5877],{5877:(e,a,s)=>{e.exports=s.p+"static/media/Polygon.0b1affaaa7f2c435e6be.svg"}}]);

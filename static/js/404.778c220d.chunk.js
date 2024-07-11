@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[404],{404:(e,a,c)=>{e.exports=c.p+"static/media/DeleteFaded.dcf49d6af8db1bacceb8.svg"}}]);

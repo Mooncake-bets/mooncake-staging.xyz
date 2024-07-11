@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[6998],{6998:(e,c,s)=>{e.exports=s.p+"static/media/Kucoin.1f8a2308cdf02e10b1b0.svg"}}]);

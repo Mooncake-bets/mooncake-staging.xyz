@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[8250],{8250:(c,e,s)=>{c.exports=s.p+"static/media/Discord.148994ccafbea34c555b.svg"}}]);

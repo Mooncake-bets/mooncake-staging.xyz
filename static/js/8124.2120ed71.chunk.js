@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[8124],{8124:(e,a,s)=>{e.exports=s.p+"static/media/BentoMenu.0f7f463a4c163f26283a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4658],{4658:(e,a,c)=>{e.exports=c.p+"static/media/Sync.e6fce33428ababaff6c6.svg"}}]);

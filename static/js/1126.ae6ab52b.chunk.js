@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[1126],{1126:(a,e,s)=>{a.exports=s.p+"static/media/Reddit.5719a90a8ba2da45ff83.svg"}}]);

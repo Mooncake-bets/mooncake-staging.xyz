@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4329],{4329:(e,s,a)=>{e.exports=a.p+"static/media/DotMenu.d9554df4fb2900b9a5c0.svg"}}]);

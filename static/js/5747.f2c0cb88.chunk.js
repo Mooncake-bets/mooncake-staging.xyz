@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5747],{5747:(c,e,a)=>{c.exports=a.p+"static/media/MAHALogo.4ac4f20c2cd51b73b0a7.svg"}}]);

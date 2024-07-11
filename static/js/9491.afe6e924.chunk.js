@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[9491],{9491:(e,c,s)=>{e.exports=s.p+"static/media/CRV.67f09bbc5331cf1539af.svg"}}]);

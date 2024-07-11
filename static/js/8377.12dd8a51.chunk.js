@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[8377],{8377:(a,e,s)=>{a.exports=s.p+"static/media/Mahalg.b5095996d33a8c810f29.svg"}}]);

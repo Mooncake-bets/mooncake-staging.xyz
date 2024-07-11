@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[2265],{2265:(e,c,a)=>{e.exports=a.p+"static/media/mooncoin.a4e0e59644cfcbdcafe4.svg"}}]);

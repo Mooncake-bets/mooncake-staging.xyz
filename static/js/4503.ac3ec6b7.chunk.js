@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[4503],{4503:(e,c,s)=>{e.exports=s.p+"static/media/Goerli.e66403efafdc442c30ce.svg"}}]);

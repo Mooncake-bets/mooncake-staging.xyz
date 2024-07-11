@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[1841],{1841:(e,c,s)=>{e.exports=s.p+"static/media/GreenCheck.1d4bebd14cbf070534b0.svg"}}]);

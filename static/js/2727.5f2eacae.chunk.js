@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[2727],{2727:(e,a,c)=>{e.exports=c.p+"static/media/Telegram.5d286c3fdccdd066aa68.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[5457],{5457:(e,a,s)=>{e.exports=s.p+"static/media/Calendar.68b13d0103365f30e656.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmooncake=self.webpackChunkmooncake||[]).push([[6506],{6506:(e,a,c)=>{e.exports=c.p+"static/media/YearnFinance.f2350324c387adc2a32e.svg"}}]);
